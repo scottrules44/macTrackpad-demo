@@ -1,0 +1,8 @@
+settings =
+{
+	plugins = {
+	 ["plugin.macTrackpad"] = {
+            publisherId = "tech.scotth",
+        },
+      }
+}
